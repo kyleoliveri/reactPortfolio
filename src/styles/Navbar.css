@@ -1,0 +1,14 @@
+.Navbar {
+    background: rgb(253, 255, 253);
+    color: rgb(10, 39, 10);
+    font-family: 'Playfair Display SC', serif;
+}
+
+.NavButton {
+    color: rgb(10, 39, 10);
+}
+
+.NavButton:hover {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,40 @@
+#Jumbotron {
+    background: url(../images/grvm.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+
+    color: rgb(10, 39, 10);
+}
+
+#About {
+    background: rgba(228, 225, 225, 0.322);
+    border: none;
+    font-size: 24px;
+    font-family: monospace;
+    padding: 25px;
+}
+
+#name {
+    font-family: 'Playfair Display SC', serif;
+}
+
+#contactModal {
+    background: rgb(14, 49, 14);
+    border: none;
+    color: white(10, 39, 10);
+}
+
+#contactModal:hover {
+    background: rgb(102, 102, 102)
+}
+
+#Icons {
+    color: rgb(14, 49, 14);
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#Icons:hover {
+    color: rgb(102, 102, 102);
+}
