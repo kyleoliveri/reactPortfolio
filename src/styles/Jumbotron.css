@@ -38,3 +38,9 @@
 #Icons:hover {
     color: rgb(102, 102, 102);
 }
+
+@media screen and (max-width: 670px) {
+    #Jumbotron {
+        min-height: 500px;
+    }
+}

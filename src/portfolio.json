@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "GOT Theories?",
+        "image": "https://raw.githubusercontent.com/kyleoliveri/reactPortfolio/master/src/images/GotTheories.png",
+        "description": "GOT Theories is a fun interactive application for Game of Thrones fans to post their own theories, as well as comment on other users theories. This application was part of a group project in which I was primarily responsible for the front-end design and development. This application was created with the help of HTML, CSS, Materialize, Javascript, jQuery, Node.js, Handlebars.js, Express, Firebase, MySQL, and Sequelize."
+    },
+    
+    {
+        "id": 2,
+        "name": "Train Schedule",
+        "image": "https://raw.githubusercontent.com/kyleoliveri/reactPortfolio/master/src/images/GifTastic.png",
+        "description": "This is a train schedule application that demonstrates storing data on a Firebase server. When the user adds a new train to the schedule, the new schedule is appended to the list and pushed to the Firebase server. This application was created with the help of HTML, CSS, Materialize, Javascript, jQuery, Moment.js, and Firebase."
+    },
+    
+    {
+        "id": 3,
+        "name": "Train Schedule",
+        "image": "https://raw.githubusercontent.com/kyleoliveri/reactPortfolio/master/src/images/train.jpg",
+        "description": "GifTastic is an enjoyable application that uses the Giphy API to pull gifs of your choosing. The user is greeted with pre-generated buttons for several characters from The Office (becase c'mon... who doesn't love The Office?). You can choose to view some Michael Scott gifs, or add your own button for gifs you would like to see! The gifs are paused by default and are enable on click. GifTastic was created using HTML, CSS, Bootstrap, and jQuery."
+    }
+]
